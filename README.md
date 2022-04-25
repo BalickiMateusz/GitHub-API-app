@@ -40,11 +40,12 @@ languages used in all of the user's repositories
 * Launch the app
 * Server will start working and you will be able to type commands at your browser's adress bar:
   * to list GitHub user's data (login, name, bio, programming languages used in repositories) type:
-    * http://localhost:8080/**user_name**
-  * to list all repositories of a given GitHub user type:
-    * http://localhost:8080/**user_name**/repositories 
+    * <code>http://localhost:8080/<user_name></code>
+  * to list all repositories of a given GitHub user simply type:
+    * <code>http://localhost:8080/<user_name>/repositories</code>
   * to shutdown the running HTTP server type:
-    * http://localhost:8080/serverShutdown
+    * <code>http://localhost:8080/serverShutdown</code>
+* Remember to replace <code><user_name></code> with proper GitHub user name e.g. **BalickiMateusz**
 ## Further improvements
 * This application displays all records on one page. Due to the readability concerns, it could be improved by adding pagination.
 * This project could be improved by handling other requests to
