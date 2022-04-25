@@ -4,6 +4,7 @@ My email in recruitment process: balickimateusz00@gmail.com
 * [Project description](#Project-description)
 * [Setup](#Setup)
 * [Requirements](#Requirements)
+* [How it works?](#How-it-works?) 
 * [Further improvements](#Further-improvements)
 ## Project description
 It's a server application created as an Allegro Summer e-Xperience 2022 Software
@@ -35,6 +36,15 @@ languages used in all of the user's repositories
 * Run MainApp.main() 
 ## Requirements
 * You must have Java version 11 installed
+## How it works?
+* Launch the app
+* Server will start working and you will be able to type commands at your browser's adress bar:
+  * to list GitHub user's data (login, name, bio, programming languages used in repositories) type:
+    * http://localhost:8080/**user_name**
+  * to list all repositories of a given GitHub user type:
+    * http://localhost:8080/**user_name**/repositories 
+  * to shutdown the running HTTP server type:
+    * http://localhost:8080/serverShutdown
 ## Further improvements
 * This application displays all records on one page. Due to the readability concerns, it could be improved by adding pagination.
 * This project could be improved by handling other requests to
