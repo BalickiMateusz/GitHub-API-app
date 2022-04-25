@@ -16,21 +16,21 @@ languages used in all of the user's repositories
 ### Run from Terminal
 * You must have Java 11 and Gradle installed
 * Clone this repository:
-  * <code>git clone ...............................</code>
+  * <code>git clone https://github.com/BalickiMateusz/allegro-summer-experience-2022.git</code>
 * Open allegro-summer-experience-2022 local project directory in terminal
 * Finally, run the project: 
   * <code>gradlew run</code> on Windows or
 <code>./gradlew run</code> on Linux
 ### Run from .jar file
 * Download "allegro-summer-experience-2022-1.0-SNAPSHOT.jar" file from here:
-  * <code>link</code>
+  * [First release](https://github.com/BalickiMateusz/allegro-summer-experience-2022/releases/tag/allegro-summer-experience-2022)
 * Open terminal and navigate to the directory with the downloaded .jar file
 * Run by executing following command:
   * <code>java -jar allegro-summer-experience-2022-1.0-SNAPSHOT.jar</code>
 ### Run from IntelliJ IDEA (or any other IDE)
 * Clone this repository:
   * from IDE itself (e.g. *Get from VCS*)
-  * or <code>git clone ...............................</code>
+  * or <code>git clone https://github.com/BalickiMateusz/allegro-summer-experience-2022.git</code>
 * Wait until the indexing is done
 * Run MainApp.main() 
 ## Requirements
