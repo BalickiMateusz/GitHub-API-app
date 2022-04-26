@@ -49,5 +49,5 @@ languages used in all of the user's repositories
 ## Further improvements
 * This application displays all records on one page. Due to the readability concerns, it could be improved by adding pagination.
 * This project could be improved by handling other requests to
-GitHub API, which would extend returned data with further informations about requested user and
+GitHub API, which would extend returned data with further information about requested user and
 his repositories.
