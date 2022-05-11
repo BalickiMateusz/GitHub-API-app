@@ -1,4 +1,4 @@
-#GitHub API project 2022
+# GitHub API project 2022
 ## Table of contents
 * [Project description](#Project-description)
 * [Setup](#Setup)
