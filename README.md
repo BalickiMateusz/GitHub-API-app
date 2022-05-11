@@ -1,5 +1,4 @@
-# Allegro Summer Experience 2022
-My email in recruitment process: balickimateusz00@gmail.com
+#GitHub API project 2022
 ## Table of contents
 * [Project description](#Project-description)
 * [Setup](#Setup)
